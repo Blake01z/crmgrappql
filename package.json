@@ -4,7 +4,7 @@
   "description": "GraphqlCRM",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node app",
     "dev": "nodemon ."
   },
   "author": "Daniel De santiago",
